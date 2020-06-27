@@ -1,0 +1,14 @@
+Imager - A Python based OCR App
+
+In this app, various image processing techniques are used in order to implement different functionalities on a particular image. Major functionalities of the app includes:
+
+1) Text Recognition - Using pytesseract, this app can recognize text on the binarized image and can also be displayed in the text frame of the app. There is also a feature of saving the recognized text in .txt format.
+
+2) Auto Crop - The image of any perspective can be cropped automatically using image pre-processing techniques like thresholding, edge detection, contours, etc. 
+
+3) Manual Crop - This feature lets the user crop the image by himself by selecting the end points of the region of interest. 
+
+4) Rotation - The image can be rotated both clockwise and anticlockwise and further can be saved using the 'Save Image' option.
+
+Other basic features consist of showing the original image, saving image at any particular processing step and displaying and saving recognized text on image.
+

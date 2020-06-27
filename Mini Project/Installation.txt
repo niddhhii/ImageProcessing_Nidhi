@@ -1,0 +1,10 @@
+Imager - A Python Based OCR App
+
+Installation:
+Download the folder along with all its files.
+
+This is a python based app hence the first and foremost dependency for running this app is the installation of Python 3.0 in the system. Other major dependencies include:
+1) OpenCV -> Python Library for Computer Vision
+2) tkinter -> Python GUI library 
+3) Python-tesseract -> OCR tool for python
+4) Pillow -> Python Imaging Library
